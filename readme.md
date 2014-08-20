@@ -1,6 +1,6 @@
 ## Laravel Permissions
 
-Check out the article on my blog: [Here](http://josephralph.co.uk)
+Check out the article on my blog: [Here](http://josephralph.co.uk/laravel-simple-route-based-access-control/)
 
 ## Files to Note
 
